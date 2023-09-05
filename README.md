@@ -111,12 +111,6 @@ This application also includes a complete database of the patient which contains
 <img width="913" alt="Screenshot 2022-11-07 at 10 36 05 PM" src="https://user-images.githubusercontent.com/73516876/200371209-b103d183-532c-485b-a4fa-efa6ad8b51c4.png">
 </div>
 
-<div class="m-3" id="links">
-    <br />
-    <h2>🚀 Links:</h2>
-</div>
-
-
 
 <div class="m-3" id="team">
     <br />
