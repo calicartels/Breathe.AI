@@ -16,7 +16,6 @@
    4. [Probability](#probability)
    5. [Patient database](#db)
 4. [Architecture](#architecture)
-5. [Links](#links)
 6. [Team](#team)
 
 <div class="m-3" id="background">
