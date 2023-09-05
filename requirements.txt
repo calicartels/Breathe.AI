@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+flask-login
+gunicorn
+itsdangerous
+Jinja2==3.0.1
+numpy
+opencv-python-headless
+tensorflow-cpu
